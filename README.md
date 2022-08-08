@@ -1,3 +1,13 @@
+
+
+# Moments
+
+## Fala Dev's. Enviando aí o projeto Dio Santander.  É uma API, mas, infelizmnte, não rodou no projeto e em minha humildade, mesmo com ajuda, não consegui achar onde estava o erro. Mas, taí o projetinho, rodando o código massa. 
+
+
+
+
+
 # Moments
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
@@ -25,4 +35,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# dio-momemts
+# dio-moments

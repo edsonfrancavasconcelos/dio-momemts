@@ -27,7 +27,7 @@ export class NewMomentsComponent implements OnInit {
 
       //todo
 
-    
+    await this.momentService.createMoment(formData).subscribe();
      this.messagesService.add('Momento adicionado com sucesso!');
      this.router.navigate(['/']);
 
